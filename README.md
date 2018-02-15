@@ -1,2 +1,4 @@
-# cti110
-CTI_110 Repository
+#CTI 110 REPOSITORY
+Created for p2LAB1
+Lewis
+2/15/2018
